@@ -1,3 +1,9 @@
+https://www.youtube.com/watch?v=F2JCjVSZlG0
+
+Project created by running:
+
+    npx
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
