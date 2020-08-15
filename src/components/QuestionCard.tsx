@@ -16,7 +16,12 @@ const QuestionCard: React.FC<Props> = (
     userAnswer, 
     questionNr, 
     totalQuestions}
-    ) => ( <div>Question Card</div> );
-//youtube 16:11
+    ) => ( 
+        <div>
+            <p className="number">
+                Question: {questionNr} / {totalQuestions}
+            </p>
+        </div> );
+//youtube 17:50
 export default QuestionCard;
 
