@@ -1,8 +1,12 @@
 https://www.youtube.com/watch?v=F2JCjVSZlG0
 
+45:00
+
 Project created by running:
 
-    npx
+    npx create-react-app react-quiz --template typescript
+
+    npm i styled-components @types/styled-components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
